@@ -1,5 +1,7 @@
 # Frontend Mentor - FAQ accordion card
 
+LIVE DEMO:  https://icm213.github.io/faqAccordionCard/
+
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
